@@ -27,7 +27,22 @@ Para mais informações: https://vitejs.dev/guide/
 <br>
 Esse é o site do Guia oficial;
 
-### Bibliotecas que estão sendo utilizadas.
+## Bibliotecas e Frameworks que estão sendo utilizadas.
+
+### React.js
+O React é uma biblioteca criada para construir telas de forma declarativa. Ele então cria aplicações web para serem executadas em navegadores, sejam eles para desktop, mobile ou qualquer outro dispositivo.
+<br> Ele é uma estrutura JavaScript específica que os desenvolvedores da Web usam para tornar o processo de criação de elementos interativos mais simplificado. É uma ferramenta importante para a criação de sites e aplicativos móveis.
+
+#### Tailwind
+
+### React Native
+
+#### Expo e Expo Go
+
+### Node.js
+
+#### Express.js
+
 
 ## Em produção....
 <img src="https://c.tenor.com/9AK36kSW3dcAAAAC/exito-time.gif">
