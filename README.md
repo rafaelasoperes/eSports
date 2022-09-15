@@ -23,6 +23,10 @@ Você também pode especificar diretamente o nome do projeto e o modelo que dese
 
 Você vai ter as opcões de qual é o framework que você vai utilizar, entre outras questões.
 
+Para mais informações: https://vitejs.dev/guide/
+<br>
+Esse é o site do Guia oficial;
+
 ### Bibliotecas que estão sendo utilizadas.
 
 ## Em produção....
